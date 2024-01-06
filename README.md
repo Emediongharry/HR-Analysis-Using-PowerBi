@@ -7,7 +7,7 @@ The purpose of this data analysis project is to uncover patterns, trends, and in
 >> You can interact with the PowerBi dashboard **[here](https://www.novypro.com/project/hr-employee-attrition-visualization).**
 
 > [!NOTE]
-> The link above will take you out of github!
+> The link above will take you out of GitHub!
 
 ## Skills Demonstrated
 1. Exploratory data analysis
