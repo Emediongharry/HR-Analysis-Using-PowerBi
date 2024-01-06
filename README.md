@@ -28,11 +28,14 @@ In order to calculate the total number of attrition, I wrote a DAX query to conv
 '''
 Attrition Count = switch(true(), 'HR-Employee-Attrition'[Attrition] = "Yes", 1, 'HR-Employee-Attrition'[Attrition] = "No", 0,0)
 '''
+
 After this, I found the sum of the "Attrition Count". This gave the total attrition count which is 237.
 
 Then to find the total number of active employees I created a measure using this query:
+
 '''
 AE = SUM('HR-Employee-Attrition'[EmployeeCount]) - SUM('HR-Employee-Attrition'[Attrition Count])
 '''
+
 This query subtracts the total attrition count from the total number of employees in the company. This gave us the active employee count as 1233.
 
