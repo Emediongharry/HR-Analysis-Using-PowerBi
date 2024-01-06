@@ -1,5 +1,10 @@
 # HR-Analysis-Using-PowerBi
-You can interact with the dashboard here: ![image](https://github.com/Emediongharry/HR-Analysis-Using-PowerBi/assets/43990958/29bcc8a6-3c78-42cb-8291-217636fd33ca)
+
+Employee attrition refers to the rate at which employees leave a company. It impacts organizational stability, productivity, and overall performance. Analyzing attrition data provides insights to address challenges and implement strategic solutions.
+
+The purpose of this data analysis project is to uncover patterns, trends, and influential factors related to employee attrition. Key goals include optimizing talent management, enhancing retention strategies, and improving organizational performance.
+
+>> You can interact with the PowerBi dashboard **[here](https://www.novypro.com/project/hr-employee-attrition-visualization).**
 
 
 
