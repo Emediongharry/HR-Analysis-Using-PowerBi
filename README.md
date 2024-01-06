@@ -55,7 +55,7 @@ A Power BI dashboard was developed to visually represent key insights derived fr
    -**Recommendations**
 1. Focus on onboarding and engagement initiatives for employees with shorter tenures.
 2. Conduct exit interviews for employees who have left the company to identify common reasons for their departure. This interview can be conducted anonymously approximately 2 weeks after an employee's exit.
-3. Come up <b>with<b>  strategies to improve the performance rating of employees. This might make them feel productive enough to remain in the company
+3. Come up with strategies to improve the performance rating of employees. This might make them feel productive enough to remain in the company
 4. Identify a way to measure how employee training programs contribute to attrition in the company.
 5. To improve the company's work environment, plans can be made to foster an inclusive and diverse workplace where all employees feel valued and respected, provide Employee Assistance Programs that offer support for personal challenges or crises, organize team-building activities and events to foster a sense of camaraderie among employees and implement wellness programs that focus on physical and mental health.
 
