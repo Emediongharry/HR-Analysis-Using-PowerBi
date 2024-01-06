@@ -1,4 +1,5 @@
 # HR-Analysis-Using-PowerBi
+You can interact with the dashboard here: ![image](https://github.com/Emediongharry/HR-Analysis-Using-PowerBi/assets/43990958/29bcc8a6-3c78-42cb-8291-217636fd33ca)
 
 
 
