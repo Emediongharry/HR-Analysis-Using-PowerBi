@@ -42,16 +42,21 @@ This query subtracts the total attrition count from the total number of employee
 A Power BI dashboard was developed to visually represent key insights derived from the analysis. It includes dynamic visualizations for attrition trends, departmental breakdowns, predictive insights, and other relevant metrics.
 
 ##  Insights and Recommendations:
- -**Key Insights**
-Attrition is highest in certain departments, indicating a need for targeted interventions.
-Employees with shorter tenures exhibit higher turnover rates.
-Compensation misalignments are identified as a significant factor in attrition.
-Predictive models suggest potential future attrition based on current trends.
-6.2 Recommendations:
-Implement targeted retention strategies in high-attrition departments.
-Review and adjust compensation structures to align with industry standards.
-Focus on onboarding and engagement initiatives for employees with shorter tenures.
-Monitor predicted attrition trends and proactively address identified risk areas.
+   -**Key Insights**
+1. There are more males than females in the company. Hence attrition is higher in males compared to females.
+2. The overall attrition rate of the company is 16.12%.
+3. Attrition is highest in the sales department with a total of 20.63%, closely followed by the human resource department with a total of 19.05%.
+4. Employees with shorter tenures exhibit higher turnover rates. This observation suggests that the rate at which employees leave the organization is more pronounced among those who have recently joined. High turnover among employees with shorter tenures may indicate various factors such as dissatisfaction, mismatch of expectations, or challenges in adapting to the organizational culture.
+5. There is a negative correlation between performance rating and employee attrition. Employees with low-performance ratings were more likely to leave the company compared to employees with high-performance ratings.
+6. There was a high turnover rate for employees who were very dissatisfied with the environment.
+
+      -**Recommendations**
+1. Focus on onboarding and engagement initiatives for employees with shorter tenures.
+2. Conduct exit interviews for employees who have left the company to identify common reasons for their departure. This interview can be conducted anonymously approximately 2 weeks after an employee's exit.
+3. Come up with strategies to improve the performance rating of employees. This might make them feel productive enough to remain in the company
+4. Identify a way to measure how employee training programs contribute to attrition in the company.
+5. To improve the company's work environment, plans can be made to foster an inclusive and diverse workplace where all employees feel valued and respected, provide Employee Assistance Programs that offer support for personal challenges or crises, organize team-building activities and events to foster a sense of camaraderie among employees and implement wellness programs that focus on physical and mental health.
+
 By addressing these insights and recommendations, the organization can strategically manage employee attrition, fostering a more stable and productive work environment.
 
 
