@@ -6,6 +6,7 @@ The purpose of this data analysis project is to uncover patterns, trends, and in
 
 >> You can interact with the PowerBi dashboard **[here](https://www.novypro.com/project/hr-employee-attrition-visualization).**
 
+<iframe title="HR-Attrition MeriSkill" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDEwOWE3MTAtN2UwYi00MjNlLWI5NDItYzZmOGY0ZmI0Y2NhIiwidCI6IjY0MjBkMTZmLWNmNTctNGZmMC04NjM4LTI2MjkyMDM0MDU4NyJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Skills Demonstrated
 1. Exploratory data analysis
